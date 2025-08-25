@@ -84,9 +84,10 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aditi-Kotwal&theme=merko&hide_border=false&show_icons=true)  
-![](https://github-readme-streak-stats-eight.vercel.app/?user=Aditi-Kotwal&theme=merko&hide_border=false)  
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aditi-Kotwal&theme=merko&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Aditi-Kotwal&theme=merko&hide_border=false&show_icons=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Aditi-Kotwal&theme=merko&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Kotwal&theme=merko&hide_border=false&layout=compact)
+
 
 ---
 
