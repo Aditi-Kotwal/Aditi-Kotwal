@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-kotwal-14838531a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditikotwal4088@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditi-Kotwal)
 
@@ -84,9 +84,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditi-Kotwal&theme=merko&hide_border=false&show_icons=true)  
-![](https://streak-stats.demolab.com/?user=Aditi-Kotwal&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Kotwal&theme=merko&hide_border=false&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aditi-Kotwal&theme=merko&hide_border=false&show_icons=true)  
+![](https://github-readme-streak-stats-eight.vercel.app/?user=Aditi-Kotwal&theme=merko&hide_border=false)  
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aditi-Kotwal&theme=merko&hide_border=false&layout=compact)
 
 ---
 
@@ -99,12 +99,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 📈 Top Contributions:
-![](https://github-contributor-stats.vercel.app/api?username=Aditi-Kotwal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Aditi-Kotwal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Generated using resume info | Currently exploring Spring Boot, GCP, and microservices architecture -->
